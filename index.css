@@ -58,7 +58,7 @@ body{line-height: 2;
 font-size:1.5rem;
 font-family:'Roboto Mono', monospace;}
 
-h1{font-family: 'Chelsea',cursive;
+h1{font-family: 'Chelsea',cursive ;
 text-align:center;font-size:10rem;font-weight:bold;}
 
 section, footer {text-align:center;
@@ -73,3 +73,8 @@ padding:5rem;}
 .pagetitle{display:inline-block;width:70%; vertical-align:top; font-size: 2.2rem;
 }
 .float{width:50%; text-align:center;margin-top: 2rem;font-size:2.2rem;}
+.section2{background-color: #DDB9A3;padding: 1rem 1rem 1rem 1rem ;color:white;font-size:2.2rem;margin: 0rem 2.5rem 0rem 2.5rem;}
+p{margin:1rem;}
+.campfire{ max-width: 20%;}
+.section3 p {margin: 2% 39% 0% 39%; font-size: 1.4rem;line-height: 1.7rem;}
+span {font-weight:bold;}
