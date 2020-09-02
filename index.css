@@ -59,17 +59,17 @@ font-size:1.5rem;
 font-family:'Roboto Mono', monospace;}
 
 h1{font-family: 'Chelsea',cursive;
-text-align:center;font-size:5rem;font-weight:bold;}
+text-align:center;font-size:10rem;font-weight:bold;}
 
 section, footer {text-align:center;
 margin: 0 auto;
 padding:5rem;}
 .logo{
-    max-width: 25%;
+    max-width:27%;
     height: auto;
     position: relative;
     overflow: hidden;border-radius:50%;text-align: left;}
-.section1 {display:inline-block;width:100%;vertical-align: text-top}
-.pagetitle{display:inline-block;width:70%;
+.section1 {display:inline-block;width:100%;}
+.pagetitle{display:inline-block;width:70%; vertical-align:top; font-size: 2.2rem;
 }
-.float{width:50%; text-align:justify;margin-left:20rem;margin-top:3rem;}
+.float{width:50%; text-align:center;margin-top: 2rem;font-size:2.2rem;}
