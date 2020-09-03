@@ -55,13 +55,13 @@ max-width:100%;display:inline-block;}
 html{font-size: 62.5%;
 }
 body{line-height: 2;
-font-size:1.5rem;
+font-size:2.5rem;
 font-family:'Roboto Mono', monospace;}
 
 h1{font-family: 'Chelsea',cursive ;
 text-align:center;font-size:10rem;font-weight:bold;}
 
-section, footer {text-align:center;
+section {text-align:center;
 margin: 0 auto;
 padding:5rem;}
 .logo{
@@ -78,4 +78,39 @@ p{margin:1rem;}
 .campfire{ max-width: 20%;}
 .section3 p {margin: 2% 39% 0% 39%; font-size: 1.4rem;line-height: 1.7rem;}
 span {font-weight:bold;}
-.section4{margin: 2% 39% 0% 39%; font-size: 1.4rem;line-height: 1.7rem;}
+.section4{margin:2% 35% 0% 35%; font-size: 1.4rem;line-height: 1.7rem;}
+.bus{width:100%; }
+
+ footer{vertical-align: middle;
+    overflow: hidden;
+     text-align: center; 
+    height:25rem; 
+    width:200rem; margin-bottom:4rem;}
+
+
+    h2{background:#FF764E;border-radius:2.5rem;
+        padding:30%;
+        color:white;
+        font-family: 'Chelsea',cursive;
+         margin: 22.5rem;
+        text-align: center; 
+        padding:2rem 2rem 2rem 2rem;
+        font-size: 2rem;display:inline;}
+    h3{background:#5ED3EB;border-radius:2.5rem;
+        padding:30%;
+        color:white;
+        font-family: 'Chelsea',cursive;
+         margin: -4.5rem;
+        text-align: center; 
+        padding:2rem 2rem 2rem 2rem;
+        font-size: 2rem;display:inline;}
+    h4{background:#FFCD69;border-radius:2.5rem;
+        padding:30%;
+        color:white;
+        font-family: 'Chelsea',cursive;
+         margin: 28rem;
+        text-align: center; 
+        padding:2rem 2rem 2rem 2rem;
+        font-size: 2rem;display:inline;
+     }
+     .bottom{margin-top:2% 0% 2% 0%;}
